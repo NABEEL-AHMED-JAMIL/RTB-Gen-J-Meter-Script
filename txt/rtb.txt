@@ -1,0 +1,35 @@
+{
+	"id": "${id}",
+	"imp": [{
+		"id": "${imp_id1}",
+		"secure": "${secure1}",
+		"instl": "${instl1}",
+		"bidfloor": "${bidfloor1}",
+		"bidfloorcur": "${bidfloorcur1}",
+		%%requestType%%
+		%%pmpType%%
+		"ext": {}
+	}],
+	%%requestPlace%%
+	%%deviceType%%
+	"user": {
+		"id": "${user_id}",
+		"gender": "${gender1}",
+		"yob": "${yob1}",
+		"ext": {
+			"consent": "${consent1}"
+
+		}
+	},
+	"regs": {
+		"coppa": "${coppa1}",
+		"ext": {
+			"gdpr": "${gdpr1}"
+		}
+	},
+	"at": "${at1}",
+	"tmax": "${tmax1}",
+	"bcat": "[${bcat1}]",
+	"badv": "[${badv1}]",
+	"ext": {}
+}

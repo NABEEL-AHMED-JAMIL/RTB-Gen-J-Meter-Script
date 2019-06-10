@@ -1,0 +1,5 @@
+{
+"id":"${deals_id1}",
+"at": "${at1}",
+"bidfloor": "${bidfloor1}"
+}

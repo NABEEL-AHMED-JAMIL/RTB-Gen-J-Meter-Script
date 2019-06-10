@@ -1,0 +1,1 @@
+{ \"id\": "${id}", \"required\": "${required1}", \"img\":{ \"type\": "${img_type}", \"wmin\": "${wmin}", \"hmin\": "${hmin}"}}

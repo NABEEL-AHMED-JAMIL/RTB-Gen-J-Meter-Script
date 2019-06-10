@@ -1,0 +1,4 @@
+"pmp": {
+"private_auction": "${private_auction1}",
+"deals": [ %deals% ]
+},

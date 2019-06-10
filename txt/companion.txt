@@ -1,0 +1,2 @@
+,"companionad": %%companions%%,
+"companiontype": "[${companiontype_arr}]"

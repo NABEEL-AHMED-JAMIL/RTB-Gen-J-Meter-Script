@@ -1,0 +1,28 @@
+"device": {
+		"dnt": "${dnt1}",
+		"ua": "${ua1}",
+		"ip" : "${ip1}",
+		"geo": {
+			"lat": "${lat1}",
+			"lon": "${lon1}",
+			"country": "${country1}",
+			"region": "${region1}",
+			"city": "${city1}",
+			"zip": "${zip1}",
+			"type": "${type1}",
+			"ext": {}
+		},
+		"dpidsha1": "${dpisha1}",
+		"dpidmd5": "${dpidmd5}",
+		"carrier": "${carrier1}",
+		"language": "${language1}",
+		"make": "${make1}",
+		"model": "${model1}",
+		"os": "${os1}",
+		"osv": "${osv1}",
+		"js": "${js1}",
+		"connectiontype": "${connectiontype1}",
+		"devicetype": "${devicetype1}",
+		"ifa": "${ifa1}",
+		"ext": {}
+	},

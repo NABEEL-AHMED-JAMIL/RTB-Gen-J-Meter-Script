@@ -1,0 +1,8 @@
+{	
+	"id": "${companionad_id}",
+    "w": "${comp_w1}",
+    "h": "${comp_h1}",
+    "pos": "${pos1}",
+    "battr": "[${battr_arr1}]",
+    "expdir": "[${expdir_arr1}]"
+}

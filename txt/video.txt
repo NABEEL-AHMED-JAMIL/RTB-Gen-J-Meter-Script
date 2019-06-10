@@ -1,0 +1,22 @@
+"video": {
+	"boxingallowed": "${boxingallowed1}",
+	"linearity": "${linearity1}",
+	"h": "${height1}",
+	"w": "${width1}",
+	"pos": "${pos1}",
+	"startdelay": "${startdelay1}",
+	"minduration": "${minduration1}",
+	"maxduration": "${maxduration1}",
+	"maxextended": "${maxextended1}",
+	"playbackmethod": "[${playbackmethod1}]",
+	"api": "[${api2_arr}]",
+	"mimes": "[${mimes1}]",
+	"sequence": "${sequence1}",
+	"placement": "${placement1}",
+	"minbitrate": "${minbitrate1}",
+	"maxbitrate": "${maxbitrate1}",
+	"delivery": "[${delivery1}]",
+	"protocols": "[${protocols1}]"
+	%%companionadType%%
+	
+},

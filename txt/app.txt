@@ -1,0 +1,14 @@
+"app": {
+		"id": "${app_id1}",
+		"name": "${app_name1}",
+		"cat": "[${appcat_arr1}]",
+		"bundle": "${app_bundle1}",
+		"publisher": {
+			"id": "${app_pub_id1}",
+			"name": "${app_pub_name1}",
+			"ext": {}
+		},
+		"keywords": "${app_keywords1}",
+		"storeurl": "${app_storeurl1}",
+		"ext": {}
+	},

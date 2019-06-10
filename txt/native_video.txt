@@ -1,0 +1,5 @@
+"native": {
+	"request": "{\"native\": {\"plcmtcnt\": 0,\"ver\": "${ver1}", \"assets\":[ %video% {\"id\":"${assets_id1}",\"required\": "${required1}",\"title\":{\"len\":"${title_len}"}},{\"img\":{\"hmin\": "${hmin}" ,\"mimes\":[\"image\\/jpeg\",\"image\\/png\"], \"type\": "${img_type}", \"wmin\": "${wmin}" },\"id\": "${id}", \"required\": "${required1}" }, %data%  \"required\": "${required1}" }],\"seq\": 0 ,\"layout\": "${request_layout}" }}",
+	"ver": "${ver1}",
+	"battr": "[${battr1_arr}]"
+},

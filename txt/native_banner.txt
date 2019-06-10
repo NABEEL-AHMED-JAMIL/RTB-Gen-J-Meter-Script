@@ -1,0 +1,6 @@
+"native": {
+    "request": "{\"layout\":"${request_layout}",\"adunit\":"${adunit}",\"assets\":[{\"id\":"${assets_id1}",\"required\":"${required1}",\"title\":{\"len\":"${title_len}" }}, %data% %images%]}",
+    "ver": "${ver1}",
+    "api": "[${api1_arr}]",
+    "battr": "[${battr1_arr}]"
+},

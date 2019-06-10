@@ -1,0 +1,14 @@
+"banner": {
+			"id": "${banner_id}",
+			"w": "${width}",
+			"h": "${height}",
+			"wmin": "${wmin}",
+			"hmin": "${hmin}",
+			"pos": "${pos1}",
+			"cat": "[${cat_arr}]",
+			"btype": "[${btype1_arr}]",
+			"battr": "[${battr1_arr}]",
+			"topframe": "${topframe1}",
+			"api": "[${api1_arr}]",
+			"ext": {}
+		},

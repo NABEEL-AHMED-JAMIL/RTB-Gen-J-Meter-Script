@@ -1,0 +1,11 @@
+"site": {
+		"id": "${site_id1}",
+		"cat": "[${sitecat_arr1}]",
+		"domain": "${site_domain1}",
+		"page": "${site_page1}",
+		"publisher": {
+			"id": "${site_publisher_id1}",
+			"name": "${site_publisher_name1}",
+			"domain": "${site_publisher_domain1}"
+		}
+	},

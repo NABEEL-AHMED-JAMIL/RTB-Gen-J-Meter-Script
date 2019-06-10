@@ -1,0 +1,1 @@
+{\"id\":1,\"video\":{\"mimes\":[\"video\\/mp4\",\"video\\/quicktime\",\"video\\/3gpp2\",\"video\\/x-m4v\"],\"minduration\":1,\"linearity\":1,\"maxduration\":60,\"delivery\":[2],\"protocols\":[3,6],\"maxbitrate\":4096,\"pos\":7},\"required\":1},
